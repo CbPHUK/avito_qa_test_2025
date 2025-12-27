@@ -1,8 +1,4 @@
-# Avito QA Test 2025
-
-
-pip install -r requirements.txt
-
+# Avito QA Internship Test 2025
 
 ## Задание 1
 Баги на скриншоте — в bugs.md
